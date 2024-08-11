@@ -1,4 +1,4 @@
-## What is a github 
+## Student trying to learn how to do this coding stuff :) 
 
 <!--
 **aalcar/aalcar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
